@@ -1,3 +1,5 @@
+package OOM_SOF;
+
 /**
  * Created by xhf on 2017/4/12.
  * 创建多个线程的时候导致内存溢出异常.

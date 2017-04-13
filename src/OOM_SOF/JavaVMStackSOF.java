@@ -1,3 +1,5 @@
+package OOM_SOF;
+
 /**
  * Created by xhf on 2017/4/12.
  * 虚拟机栈和本地方法栈OOM test (Out Of Memory Error) 单个线程
