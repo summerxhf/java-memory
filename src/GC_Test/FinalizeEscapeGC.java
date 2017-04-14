@@ -28,7 +28,7 @@ public class FinalizeEscapeGC {
         if(SAVE_HOOK!=null){
             SAVE_HOOK.isAlive();
         }else {
-            System.out.println("one: no,i am dead:(");
+            System.out.println("one: no,i am dead:");
         }
 
 
